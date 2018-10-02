@@ -1,4 +1,4 @@
-# intercom
+# Intercom
 
 A simple low-latency full-duplex intercom.
 
